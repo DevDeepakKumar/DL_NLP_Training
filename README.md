@@ -25,7 +25,8 @@ Built as a step-by-step teaching notebook: every code cell has a markdown explan
 ### 1. Clone the repo
 ```bash
 git clone git@github.com:DevDeepakKumar/DL_NLP_Training.git
-cd <your-repo-name>
+go to DL_NLP_Training directory 
+run RAG_from_scratch_10k.ipynb in vscode
 ```
 
 ### 2. Install dependencies
