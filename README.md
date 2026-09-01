@@ -47,9 +47,9 @@ Groq provides free, very fast inference for open models like Llama 3.3.
 4. Copy the key immediately — Groq only shows it once.
 
 ### 5. Store the key in a `.env` file
-Create a file named `.env` in the project root:
+Create a file named `.env` in the project root and add your api key:
 ```
-GROQ_API_KEY=your_key_here
+export GROQ_API_KEY="your_key_here"
 ```
 > ⚠️ Never commit your `.env` file. Add it to `.gitignore`.
 
