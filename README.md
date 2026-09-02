@@ -73,4 +73,4 @@ Open `RAG_from_scratch_10K.ipynb` in Jupyter or Google Colab and run the cells i
 - Swap in a different PDF by changing `PDF_PATH` — no other code changes needed.
 
 ## License
-MIT (or update to your preferred license).
+AITM (or update to your preferred license).
